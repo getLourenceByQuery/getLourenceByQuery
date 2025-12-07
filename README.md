@@ -1,5 +1,5 @@
 <hr><h2 align="center">THIS IS LOURENCE</h2>
-<p align="center">Currently pursuing a degree in Information Technology and a passion for building user-friendly and efficient web applications.</p>
+<p align="center">Currently pursuing a degree in Information Technology and have a passion for building user-friendly stuffs.</p>
 
 <hr>
 <br>
