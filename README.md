@@ -3,11 +3,11 @@
 
 <hr>
 
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=getLourenceByQuery&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" /></p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=getLourenceByQuery&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/></p>
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=getLourenceByQuery&theme=tokyonight" alt="getLourenceByQuery" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=getLourenceByQuery&theme=tokyonight"/></p>
 
 <hr>
 
